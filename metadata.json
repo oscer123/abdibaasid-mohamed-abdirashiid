@@ -1,0 +1,7 @@
+{
+  "name": "Attendify SaaS",
+  "description": "A multi-tenant attendance platform for schools and workplaces with AI analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
